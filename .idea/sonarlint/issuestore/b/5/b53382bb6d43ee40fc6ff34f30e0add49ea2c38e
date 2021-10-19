@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+m
+java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç8ş¦˜É/
+s
+java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ8ş¦˜É/
+l
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8ş¦˜É/
