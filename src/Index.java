@@ -13,6 +13,8 @@ public class Index {
     indexMap.put("NC3-链表中环的入口节点", EntryNodeOfLoop.class);
     indexMap.put("NC4-判断链表中是否有环", HasCycle.class);
     indexMap.put("NC5-二叉树根节点到叶子节点的所有路径和", SumNumbers.class);
+    indexMap.put("NC6-二叉树中的最大路径和", MaxPathSum.class);
+    indexMap.put("NC7-买卖股票的最好时机", MaxProfit.class);
     System.out.println(indexMap);
   }
 }
