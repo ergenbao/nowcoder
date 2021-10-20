@@ -17,3 +17,7 @@ A
 src/TreeNode.java,b/5/b53382bb6d43ee40fc6ff34f30e0add49ea2c38e
 C
 src/SumNumbers.java,2/d/2d042f367d4808e90c23bf601dd9eeb170d66602
+C
+src/MaxPathSum.java,c/4/c4c279e6fca41afe15657b299092fb275a28fe8b
+B
+src/MaxProfit.java,4/9/49e6f6debfcc157f7c81ee5558b7b1bf34687d2f
